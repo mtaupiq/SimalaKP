@@ -1,12 +1,14 @@
-# OffABC
+# SimalaKP
 
-This is a sample project to test around with Offline mode capabilities using ServiceWorker and IndexDB.
+Progressive Web App with Offline mode capabilities using ServiceWorker and IndexDB.
 
 ## Install
 
 ### Step 1
 
 ```composer install```
+
+```npm install```
 
 ```cp .env.example .env```
 
