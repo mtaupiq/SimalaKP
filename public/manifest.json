@@ -1,0 +1,20 @@
+{
+  "name": "Laporan Kegiatan Kerja Praktek",
+  "short_name": "SimalaKP",
+  "icons": [
+    {
+      "src": "/static/img/icons/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/icons/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3097D1",
+  "theme_color": "#7b1fa2"
+}
